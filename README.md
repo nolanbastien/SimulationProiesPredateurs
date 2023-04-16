@@ -20,3 +20,7 @@ Votre solution doit contenir les éléments suivants:
 
 1. Un programme complet qui effectue la simulation et l'animation. Ce programme doit définir les classes `pred` et `proie` et comporter les étapes et les variables décrites ci-dessus. Le programme doit être fonctionnel et atteindre le temps $t=1000$ sans que l'une des espèces (ou les deux) ait complètement disparu.
 2. Un graphique, généré dans une cellule différente, des populations des deux espèces en fonction du temps. Il est pratique d'écrire le tableau dans un fichier lors de la dernière itération et de faire le graphique à partir du fichier dans une cellule séparée.
+
+# Note sur les deux solutions
+
+J'ai d'abord fait une solution avec deux listes bidimensionnelles, en pensant que ce serait environ équivalent à deux listes et deux listes de références bidimensionnelles. Puis, j'ai essayé la deuxième idée. Cette dernière est celle que j'ai remise et complétée.
