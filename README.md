@@ -23,4 +23,4 @@ Votre solution doit contenir les éléments suivants:
 
 # Note sur les deux solutions
 
-J'ai d'abord fait une solution avec deux listes bidimensionnelles (TP7_2Darrays.py), en pensant que ce serait environ équivalent à deux listes et deux listes de références bidimensionnelles (TP7.py). Puis, j'ai essayé la deuxième idée. Cette dernière est celle que j'ai remise et complétée.
+J'ai d'abord fait une solution avec deux listes bidimensionnelles (`TP7_2Darrays.py`), en pensant que ce serait environ équivalent à deux listes et deux listes de références bidimensionnelles (`TP7.py`). Puis, j'ai essayé la deuxième idée. Cette dernière est celle que j'ai remise et complétée.
